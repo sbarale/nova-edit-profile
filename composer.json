@@ -1,5 +1,5 @@
 {
-    "name": "saintsystems/nova-edit-profile",
+    "name": "sbarale/nova-edit-profile",
     "description": "A tool for Laravel Nova to allow users to edit their profile data.",
     "keywords": [
         "laravel",
@@ -13,7 +13,7 @@
             "url": "../nova"
         }
     ],
-    "homepage": "https://github.com/saintsystems/nova-edit-profile",
+    "homepage": "https://github.com/sbarale/nova-edit-profile",
     "license": "MIT",
     "authors": [
         {
