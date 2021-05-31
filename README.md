@@ -1,6 +1,6 @@
 # A tool to let user's update their profile in Laravel Nova
 
-Based on [runlinenl/nova-profile-tool](https://github.com/runlinenl/nova-profile-tool) with a few fixes, changes and improvements.
+Based on [saintsystems/nova-edit-profile](https://github.com/saintsystems/nova-edit-profile) with a few fixes, changes and improvements.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/saintsystems/nova-edit-profile.svg?style=flat-square)](https://packagist.org/packages/saintsystems/nova-edit-profile)
 [![Total Downloads](https://img.shields.io/packagist/dt/saintsystems/nova-edit-profile.svg?style=flat-square)](https://packagist.org/packages/saintsystems/nova-edit-profile)
@@ -16,7 +16,7 @@ User resource under 'Resources'.
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require saintsystems/nova-edit-profile
+composer require sbarale/nova-edit-profile
 ```
 
 Next up, you must register the tool with Nova. This is typically done in the `tools` method of the `NovaServiceProvider`.
